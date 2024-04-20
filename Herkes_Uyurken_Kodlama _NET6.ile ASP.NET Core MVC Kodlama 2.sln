@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herkes_Uyurken_Kodlama _NET6.ile ASP.NET Core MVC Kodlama 2", "Herkes_Uyurken_Kodlama _NET6.ile ASP.NET Core MVC Kodlama 2\Herkes_Uyurken_Kodlama _NET6.ile ASP.NET Core MVC Kodlama 2.csproj", "{3E133E5A-E5DA-4034-9766-DAC48E4CC6DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E133E5A-E5DA-4034-9766-DAC48E4CC6DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E133E5A-E5DA-4034-9766-DAC48E4CC6DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E133E5A-E5DA-4034-9766-DAC48E4CC6DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E133E5A-E5DA-4034-9766-DAC48E4CC6DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51260841-8184-4019-8028-F3EF28B65BCA}
+	EndGlobalSection
+EndGlobal
